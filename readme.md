@@ -1,4 +1,4 @@
-![basement.js](http://lignixz.github.io/tik.js/img/tik2.svg)
+![tik.js](http://xzzulz.github.io/tik.js/img/tik2.svg)
 
 # tik.js
 v1.0
@@ -24,6 +24,6 @@ tikr.tik( 'bing', payload ) // -> action is called with payload as parameter
 tikr.remove(  'bing' , action )
 ```
 ## tests
-Basement tests: [tik tests](http://lignixz.github.com/tik.js/)
+Basement tests: [tik tests](http://xzzulz.github.com/tik.js/)
 
 MIT license.
