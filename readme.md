@@ -1,4 +1,11 @@
-![tik.js](http://xzzulz.github.io/tik.js/img/tik2.svg)
+![tik.js](https://lignx.github.io/tik.js/img/tik2.svg)
+
+## Note
+This is an outdated, experiment project, from my early career.\
+Have improved significantly, since then.
+(https://xiggfi.web.app)
+
+-----------------------------------------------------------------
 
 # tik.js
 v1.0
@@ -24,6 +31,6 @@ tikr.tik( 'bing', payload ) // -> action is called with payload as parameter
 tikr.remove(  'bing' , action )
 ```
 ## tests
-Basement tests: [tik tests](http://xzzulz.github.com/tik.js/)
+Basement tests: [tik tests](https://lignx.github.io/tik.js)
 
 MIT license.
